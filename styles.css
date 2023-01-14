@@ -1,0 +1,49 @@
+/* heading style start from here */
+.heading {
+  background-color: #ff900e1a;
+  background: rgba(255, 144, 14, 0.1);
+}
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.head-title {
+  margin-left: 100px;
+  font-weight: 700;
+  font-size: 45px;
+  color: #424242;
+}
+.contact {
+  margin-right: 120px;
+}
+.contact li {
+  display: inline;
+  padding-right: 30px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #424242;
+}
+.heading-title,
+.heading-info {
+  text-align: center;
+}
+.header-btn {
+  margin-left: 600px;
+  margin-top: 10px;
+  color: #ffffff;
+  height: 64px;
+  width: 180px;
+  background: orange;
+  border-radius: 10px;
+  border: 5px solid;
+  font-weight: 600;
+  font-size: 15px;
+}
+.image img {
+  width: 1045px;
+  height: 550px;
+  border-radius: 8px;
+  margin-left: 155px;
+  margin-top: 20px;
+}
