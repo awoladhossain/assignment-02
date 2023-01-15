@@ -1,4 +1,8 @@
 /* heading style start from here */
+body{
+  margin: 0;
+}
+
 .heading {
   background-color: #ff900e1a;
   background: rgba(255, 144, 14, 0.1);
